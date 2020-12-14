@@ -16,7 +16,7 @@ This is an example of how to list things you need to use the bot and how to inst
 
 ### Installation
 
-1. Get your self a discord bot token from [Discord developers portal}(https://discord.com/developers)
+1. Get your self a discord bot token from [Discord developers portal](https://discord.com/developers)
 2. Clone the repo
    ```sh
    git clone https://github.com/rutkuli/discord-server-status.git
