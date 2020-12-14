@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <h1 Discord game status bot made with gamedig</h1>   
+  <a Discord game status bot made with gamedig</a>   
   </p>
   
   ### Prerequisites
