@@ -3,10 +3,8 @@
     <img src="https://i.imgur.com/aBG1r1D.png"></a>
 </p>
 
-<p align="center">
-  <a Discord game status bot made with gamedig</a>   
-  </p>
-  
+
+
   ### Prerequisites
 
 This is an example of how to list things you need to use the bot and how to install them.
@@ -40,6 +38,7 @@ This is an example of how to list things you need to use the bot and how to inst
 
 
 ## Credits
+
  [Rutkuli](github.com/rutkuli)
  [Gamedig](https://www.npmjs.com/package/gamedig)
 
