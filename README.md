@@ -29,7 +29,7 @@ This is an example of how to list things you need to use the bot and how to inst
    ```JS
    token = 'ENTER YOUR token';
    ```
-   5. Enter server ip & port  in `config.js`
+5. Enter server ip & port  in `config.js`
    ```JS
    ip = 'ENTER YOUR token';
    port = 'ENTER YOUR token';  
